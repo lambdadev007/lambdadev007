@@ -35,8 +35,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=lambdadev007&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lambdadev007&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
 </p>
-<a href="https://github.com/perfectdev000/perfectdev000">
-  <img alt="perfectdev000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=perfectdev000&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
+<a href="https://github.com/perfectdev000/lambdadev007">
+  <img alt="lambdadev007's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lambdadev007&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
 </a>
   
 </p>
