@@ -32,8 +32,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=perfectdev000&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=perfectdev000&column=7&theme=onedark" alt="perfectdev000" /></p>
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=perfectdev000&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=perfectdev000&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=lambdadev007&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lambdadev007&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
 </p>
 <a href="https://github.com/perfectdev000/perfectdev000">
   <img alt="perfectdev000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=perfectdev000&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
@@ -41,11 +41,3 @@
   
 </p>
 </details>
-<!--
-<div align="center">
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
-<p>
-Email: darkrut22@gmail.com<br/>
-</p>
-</div>
--->
